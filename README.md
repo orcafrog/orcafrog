@@ -1,11 +1,12 @@
 ### Hi there 👋  
-### GitHub stats  
-![orcafrog's GitHub stats](https://github-readme-stats.vercel.app/api?username=orcafrog&show_icons=true&theme=cobalt)  
-### Baekjoon solved rank  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hiq)](https://solved.ac/hiq)  
-### Used Language  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orcafrog&theme=cobalt)  
-
+<div align="center">
+  ### GitHub stats  
+  ![orcafrog's GitHub stats](https://github-readme-stats.vercel.app/api?username=orcafrog&show_icons=true&theme=cobalt)  
+  ### Baekjoon solved rank  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hiq)](https://solved.ac/hiq)  
+  ### Used Language  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orcafrog&theme=cobalt)  
+</div>
 
 <!--
 **orcafrog/orcafrog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
