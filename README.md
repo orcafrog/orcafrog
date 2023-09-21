@@ -1,7 +1,7 @@
 <div align=center>
 <h1>Hi there 👋 </h1> 
 
-### GitHub stats    Used Language  
+### Status🎈
 ![orcafrog's GitHub stats](https://github-readme-stats.vercel.app/api?username=orcafrog&show_icons=true&theme=cobalt)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orcafrog&theme=cobalt)  
 ### Baekjoon solved rank  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hiq)](https://solved.ac/hiq)  
