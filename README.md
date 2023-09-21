@@ -1,3 +1,14 @@
+<div align=center>
+<h1>Hi there 👋 </h1> 
+
+### GitHub stats  
+![orcafrog's GitHub stats](https://github-readme-stats.vercel.app/api?username=orcafrog&show_icons=true&theme=cobalt)  
+### Baekjoon solved rank  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hiq)](https://solved.ac/hiq)  
+### Used Language  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orcafrog&theme=cobalt)  
+</div>
+
 <h1>📚 STACKS</h1></div>
 <div align=center>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -27,17 +38,6 @@
   <img src="https://img.shields.io/badge/plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white">
   <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=black">
 </div>
-
-<h1>Hi there 👋 </h1> 
-
-### GitHub stats  
-![orcafrog's GitHub stats](https://github-readme-stats.vercel.app/api?username=orcafrog&show_icons=true&theme=cobalt)  
-### Baekjoon solved rank  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hiq)](https://solved.ac/hiq)  
-### Used Language  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orcafrog&theme=cobalt)  
-
-
 <!--
 **orcafrog/orcafrog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
