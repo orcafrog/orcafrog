@@ -35,11 +35,11 @@
   <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 </div>
 <div align=center>
-  <img src="https://img.shields.io/badge/cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
-</div>
-<div align=center>
   <img src="https://img.shields.io/badge/plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white">
   <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=black">
+</div>
+<div align=center>
+  <img src="https://img.shields.io/badge/cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
 </div>
 <!--
 **orcafrog/orcafrog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
