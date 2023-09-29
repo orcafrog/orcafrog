@@ -7,7 +7,7 @@
 
 <div align=center>
   ### Solved.ac
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=orcafrog)](https://solved.ac/orcafrog)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=orcafrog)](https://solved.ac/orcafrog/)
 </div>
 
 <div align=center>
