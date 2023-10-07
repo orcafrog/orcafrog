@@ -2,7 +2,8 @@
 <h1>Hi there 👋 </h1> 
 
 ### Status🎈
-![orcafrog's GitHub stats](https://github-readme-stats.vercel.app/api?username=orcafrog&count_private=true&show_icons=true&theme=maroongold)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orcafrog&theme=cobalt)   
+![orcafrog's GitHub stats](https://github-readme-stats.vercel.app/api?username=orcafrog&count_private=true&show_icons=true&theme=maroongold)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orcafrog&theme=cobalt)   
 </div>
 
 <div align=center>
