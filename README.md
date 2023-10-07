@@ -2,7 +2,7 @@
 <h1>Hi there 👋 </h1> 
 
 ### Status🎈
-[![orcafrog's GitHub stats](https://github-readme-stats.vercel.app/api?username=orcafrog&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=false&theme=dracula)](https://github.com/orcafrog/github-readme-stats)
+[![orcafrog's GitHub stats](https://github-readme-stats.vercel.app/api?username=orcafrog&hide_title=true&show_icons=true&count_private=true&include_all_commits=true&disable_animations=false&theme=dracula)](https://github.com/orcafrog/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orcafrog&hide_progress=true&theme=dracula)
 
 <div align=center>
