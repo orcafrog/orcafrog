@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=%20Welcome%20&height=300&fontSize=100&textBg=true)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=%20Welcome%20&height=300&fontSize=100&textBg=false)
 
 <div align=center> 
 <h1>Status🎈</h1>
