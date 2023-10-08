@@ -22,7 +22,7 @@
 </div>
 <div align=center>
   <h3>Server</h3>
-  <b>centos -> rockylinus</b><br>
+  <b>centos -> rockylinux</b><br>
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/rocky linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=black">
 </div>
