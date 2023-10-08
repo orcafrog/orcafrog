@@ -1,7 +1,8 @@
-<div align=center>
-<h1>Hi there 👋 </h1> 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%20orcafrog'sgithub%20&height=300&fontSize=100&textBg=true)
 
-### Status🎈
+<div align=center> 
+<h1>Status🎈</h1>
+
 [![orcafrog's GitHub stats](https://github-readme-stats.vercel.app/api?username=orcafrog&hide_title=true&show_icons=true&count_private=true&include_all_commits=true&disable_animations=false&theme=dracula)](https://github.com/orcafrog/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orcafrog&hide_progress=true&theme=dracula)
 
