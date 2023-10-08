@@ -1,5 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=%20orcafrog%20&fontColor=d6ace6&height=300&fontSize=100&textBg=false)
 
+<div align=center> 
+<h1>Status🎈</h1>
+
+[![orcafrog's GitHub stats](https://github-readme-stats.vercel.app/api?username=orcafrog&bg_color=30,e96443,904e95&hide_title=false&show_icons=true&count_private=true&include_all_commits=true&disable_animations=true&theme=dracula)](https://github.com/orcafrog/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orcafrog&bg_color=30,e96443,904e95&theme=dracula)](https://github.com/orcafrog/github-readme-stats)
+
 <div align=center>
   <h1>📚 STACKS</h1></div>
 </div>
@@ -52,13 +58,6 @@
   <h3>interest</h3>
   <img src="https://img.shields.io/badge/unrealengine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white">
 </div>
-
-<div align=center> 
-<h1>Status🎈</h1>
-
-[![orcafrog's GitHub stats](https://github-readme-stats.vercel.app/api?username=orcafrog&bg_color=30,e96443,904e95&hide_title=false&show_icons=true&count_private=true&include_all_commits=true&disable_animations=true&theme=dracula)](https://github.com/orcafrog/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orcafrog&bg_color=30,e96443,904e95&theme=dracula)](https://github.com/orcafrog/github-readme-stats)
-
 
 <div align=center>
   <h1>Solved.ac👻</h1>
